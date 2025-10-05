@@ -8,6 +8,7 @@ Each day = one topic, written in a markdown file.
 - [Day 02: Arithmetic Operators](./Day%2002%20Arithmetic%20Operators.md)
 - [Day 03: Accepting User Input](./Day%2003%20Accepting%20User%20Input.md)
 - [Day 04: Type Conversion](./Day%2004%20Type%20Conversion.md)
+- [Day 05: Const Variable](./Day%2005%20Const%20Variable.md)
 
 
 ---
