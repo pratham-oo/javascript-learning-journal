@@ -11,7 +11,7 @@ Each day = one topic, written in a markdown file.
 - [Day 05: Const Variable](./Day%2005%20Const%20Variable.md)
 - [Day 06: Counter Program](./Day%2006%20Counter%20Program.md)
 - [Day 07: Math Object](./Day%2007%20Math%20Object.md)
-- [Day 08: Random Number Generator Program](./Day%2008%20Random%20Number%20Generator%20Program.md)
+- [Day 08: Random Number Generator Program](./Day%2008%20Random%20Number%20Generator%20program.md)
 
 
 ---
