@@ -10,6 +10,7 @@ Each day = one topic, written in a markdown file.
 - [Day 04: Type Conversion](./Day%2004%20Type%20Conversion.md)
 - [Day 05: Const Variable](./Day%2005%20Const%20Variable.md)
 - [Day 06: Counter Program](./Day%2006%20Counter%20Program.md)
+- [Day 07: Math Object](./Day%2007%20Math%20Object.md)
 
 
 ---
