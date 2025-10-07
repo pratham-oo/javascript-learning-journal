@@ -12,6 +12,7 @@ Each day = one topic, written in a markdown file.
 - [Day 06: Counter Program](./Day%2006%20Counter%20Program.md)
 - [Day 07: Math Object](./Day%2007%20Math%20Object.md)
 - [Day 08: Random Number Generator Program](./Day%2008%20Random%20Number%20Generator%20program.md)
+- [Day 09: If Statements](./Day%2009%20If%20Statements.md)
 
 
 ---
