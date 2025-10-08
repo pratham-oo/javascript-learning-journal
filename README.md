@@ -14,6 +14,7 @@ Each day = one topic, written in a markdown file.
 - [Day 08: Random Number Generator Program](./Day%2008%20Random%20Number%20Generator%20program.md)
 - [Day 09: If Statements](./Day%2009%20If%20Statements.md)
 - [Day 10: Check Property](./Day%2010%20Check%20Property.md)
+- [Day 11: Ternary Operator](./Day%2011%20Ternary%20Operator.md)
 
 
 ---
