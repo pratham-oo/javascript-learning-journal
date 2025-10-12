@@ -15,6 +15,7 @@ Each day = one topic, written in a markdown file.
 - [Day 09: If Statements](./Day%2009%20If%20Statements.md)
 - [Day 10: Check Property](./Day%2010%20Check%20Property.md)
 - [Day 11: Ternary Operator](./Day%2011%20Ternary%20Operator.md)
+- [Day 12: Switch and Break Statement](./Day%2012%20Switch%20and%20Break%20Statement.md)
 
 
 ---
