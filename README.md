@@ -20,6 +20,7 @@ Each day = one topic, written in a markdown file.
 - [Day 14: String Slicing](./Day%2014%20String%20Slicing.md)
 - [Day 15: Method Chaining](./Day%2015%20Method%20Chaining.md)
 - [Day 16: Logical Operators](./Day%2016%20Logical%20Operators.md)
+- [Day 17: Strict Equality](./Day%2017%20Strict%20Equality.md)
 
 
 ---
