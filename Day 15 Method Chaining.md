@@ -5,7 +5,7 @@
 **Method chaining** means calling **multiple methods in one line**, one after another, instead of writing them separately.
 
 Each method *returns a value* that the next method can act on.
-
+  
 💬 Think of it like a pipeline — data goes through multiple transformations, one after the other 🚀
 // it is very important in js
 ---
