@@ -7,7 +7,7 @@
 Each method *returns a value* that the next method can act on.
 
 💬 Think of it like a pipeline — data goes through multiple transformations, one after the other 🚀
-
+// it is very important in js
 ---
 
 ### 💡 **2️⃣ Example Without Chaining**
