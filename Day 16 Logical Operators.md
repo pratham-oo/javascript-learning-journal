@@ -9,7 +9,7 @@ There are **three main logical operators** in JavaScript 👇
 | Operator | Symbol | Meaning | Example |
 | --- | --- | --- | --- |
 | AND | `&&` | True if **both** conditions are true | `a > 0 && b > 0` |
-| OR | `||` |  either one condition to be true| `a > 0 && b > 0` |
+| OR | `||`||` |  either one condition to be true| `a > 0 && b > 0` |
 | NOT | `!` | **Reverses** the condition (true → false, false → true) | `!(a > 0)` |
 
 ---
