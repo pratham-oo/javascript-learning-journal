@@ -21,6 +21,7 @@ Each day = one topic, written in a markdown file.
 - [Day 15: Method Chaining](./Day%2015%20Method%20Chaining.md)
 - [Day 16: Logical Operators](./Day%2016%20Logical%20Operators.md)
 - [Day 17: Strict Equality](./Day%2017%20Strict%20Equality.md)
+- [Day 18: While and Do While Loops](./Day%2018%20While%20and%20Do%20While%20Loops.md)
 
 
 ---
