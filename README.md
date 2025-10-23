@@ -23,7 +23,7 @@ Each day = one topic, written in a markdown file.
 - [Day 17: Strict Equality](./Day%2017%20Strict%20Equality.md)
 - [Day 18: While and Do While Loops](./Day%2018%20While%20and%20Do%20While%20Loop.md)
 - [Day 19: For Loop, Break, and Continue](./Day%2019%20For%20Loop%20Break%20and%20Continue.md)
-- [Day 20: Number Guessing Game](./Day%2020%20Number%20Guessing%20Ga.md)
+- [Day 20: Number Guessing Game](./Day%2020%20Number%20Guessing%20Game.md)
 - [Day 21: Functions](./Day%2021%20Functions.md)
 - [Day 22: Variable Scope](./Day%2022%20Variable%20Scope.md)
 - [Day 23: Temperature Converter](./Day%2023%20Temperature%20Converter.md)
